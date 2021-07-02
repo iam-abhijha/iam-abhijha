@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhinandan Kumar</h1>
+<h1 align="center">Hi, I'm Abhinandan Kumar 👋</h1>
 <h3 align="center">A passionate CSE student from India</h3>
-
 - 🌱 I’m currently learning **Social Engineering & DSA**
 
 - 👨‍💻 All of my projects are available at [http://abhi.mrtechy.in/](http://abhi.mrtechy.in/)
@@ -24,4 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abhijha&show_icons=true&locale=en&layout=compact" alt="iam-abhijha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-abhijha&show_icons=true&locale=en" alt="iam-abhijha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-abhijha&show_icons=true&locale=en" alt="iam-abhijha" /></p>
+
