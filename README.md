@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Abhinandan Kumar 👋</h1>
 <h3 align="center">A passionate CSE student</h3>
-- 🌱 I’m currently learning **Android Dev & Social Engineering**
 
 - 👨‍💻 All of my projects are available at [http://abhi.mrtechy.in/](http://abhi.mrtechy.in/)
+
+- 🌱 I’m currently learning **Android Dev & Social Engineering**
 
 - 💬 Ask me about **Phones & Gadgets**
 
