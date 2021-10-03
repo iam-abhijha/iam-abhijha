@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [http://abhi.mrtechy.in/](http://abhi.mrtechy.in/)
 
-- 🌱 I’m currently learning **Android Dev & Social Engineering**
+- 🌱 I’m currently learning **Android Dev**
 
-- 💬 Ask me about **Phones & Gadgets**
+- 💬 Ask me about **Tech Updates**
 
 - 📫 How to reach me **abhinandankrjha1@gmail.com**
 
