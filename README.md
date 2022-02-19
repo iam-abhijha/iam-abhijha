@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhinandan Kumar 👋</h1>
-<h3 align="center">A passionate CSE student</h3>
+<h3 align="center">Passionate Android Developer seeking an SDE role to pursue my passion for solving problems through code</h3>
 
 - 👨‍💻 All of my projects are available at [http://abhi.mrtechy.in/](http://abhi.mrtechy.in/)
 
