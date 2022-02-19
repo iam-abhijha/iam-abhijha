@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Dev**
 
-- 💬 Ask me about **Tech Updates**
+- 💬 My LinkedIn Profile [iamabhijha](https://www.linkedin.com/in/iamabhijha/)
 
 - 📫 How to reach me **abhinandankrjha1@gmail.com**
 
