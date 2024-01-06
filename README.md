@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhinandan Kumar 👋</h1>
 <h3 align="center">A passionate Mobile Developer whose passion to solve problems through code.</h3>
 
-- 👨‍💻 All of my projects are available at [http://abhi.mrtechy.in/](http://abhi.mrtechy.in/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://iam-abhijha.github.io/My-Portfolio/)
 
 - 🌱 I’m currently working as a **Flutter Developer**
 
